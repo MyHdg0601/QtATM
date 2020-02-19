@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="QtATM">
+    <file>qtatm_zh.qm</file>
+    <file>QtATM.ico</file>
+  </qresource>
+</RCC>

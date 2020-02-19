@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QtATM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JoinPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SQLiteOperator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NUserPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DepositDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CashDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangePwdDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TransferDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="global.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuidePage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HUserPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AccountDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UserItemDrawer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ModifyDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CorrectDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RestPwdDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="QtATM.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="JoinPage.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="SQLiteOperator.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="LoginPage.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="NUserPage.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="AccountDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DepositDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CashDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ChangePwdDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="TransferDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="GuidePage.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="HUserPage.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="UserItemDrawer.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ModifyDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="CorrectDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="RestPwdDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="SearchDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="QtATM.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="JoinPage.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="LoginPage.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="NUserPage.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AccountDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="DepositDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CashDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ChangePwdDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="TransferDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="GuidePage.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="HUserPage.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ModifyDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CorrectDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="RestPwdDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="SearchDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="QtATM.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="QtATM.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="qtatm_zh.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
